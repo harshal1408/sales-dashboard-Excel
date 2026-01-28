@@ -71,7 +71,7 @@ The dataset contains the following fields:
 ---
 
 ## 🖼 Dashboard Preview
-![Sales Dashboard](Screenshots/overview.png)
+![Sales Dashboard](Overview.png)
 
 ---
 
